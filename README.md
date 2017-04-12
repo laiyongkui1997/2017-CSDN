@@ -104,7 +104,7 @@ java基础：慕课网http://www.imooc.com/course/list?c=java
 
 注：视频中有环境的搭建
 
-#### Task1 
+### Task1 
 
 **前端**
 
@@ -126,7 +126,7 @@ java基础：慕课网http://www.imooc.com/course/list?c=java
 
 不过学习Java你可以将之前C语言学的算法用java给实现
 
-#### Task2
+### Task2
 
 **前端**
 
