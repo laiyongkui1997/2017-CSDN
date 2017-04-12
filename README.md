@@ -104,7 +104,7 @@ java基础：慕课网http://www.imooc.com/course/list?c=java
 
 注：视频中有环境的搭建
 
-#### Task1 
+### Task1 
 
 **前端**
 
@@ -125,4 +125,20 @@ java基础：慕课网http://www.imooc.com/course/list?c=java
 由于后台语言不好留作业，你们可以自己根据慕课网上的视频来写东西，慕课网上的视频一般都有实例的
 
 不过学习Java你可以将之前C语言学的算法用java给实现
+
+### Task2
+
+**前端**
+
+​    学习使用label、select、option、span标签，css中的width、height、background、overflow、margin、border属性，同时尽量使用
+学习过的知识搭一个网页版的个人简历。有精力的同学可以尝试使用JavaScript语法，其基本语法可以参考我的博客（[https://jessionlin.github.io/2017/03/09/JS%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E7%AE%80%E8%BF%B0](qq://txfile/#)/）
+。作业时间两周，22号中午我会提取大家的代码，并将比较好的作品在培训后展示
+
+**PHP**
+
+​	掌握使用mysql、mysqli和PDO连接数据库的操作，并写三个文件，使用自己的名字命名。
+
+**Java**
+
+​	掌握Java连接mysql数据库的方式，并写个文件，使用自己的名字命名。
 
